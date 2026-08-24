@@ -5,8 +5,4 @@
   "notes_url": "https://github.com/rush9214/MS_update/releases",
   "notice":     "밧줄 등반 개선, 좌우 훑기 추가",
   "keep_notice": "이 PC의 설정과 맵은 그대로 유지됩니다."
-  "stable": {
-    "version": "4.4.1",
-    "url": "https://github.com/rush9214/MS_update/releases/download/v441/m_secretary.exe"
-  }
 }
