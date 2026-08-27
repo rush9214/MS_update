@@ -1,12 +1,12 @@
 {
-  "version": "4.9.1",
-  "url": "https://github.com/rush9214/MS_update/releases/download/v491/m_secretary.exe",
-  "assets_url": "https://github.com/rush9214/MS_update/releases/download/v491/assets.zip",
+  "version": "4.9.3",
+  "url": "https://github.com/rush9214/MS_update/releases/download/v493/m_secretary.exe",
+  "assets_url": "https://github.com/rush9214/MS_update/releases/download/v493/assets.zip",
   "notes_url": "https://github.com/rush9214/MS_update/releases",
-  "notice":     "빨코 최적화, 설정 초기화 버그 수정",
-  "keep_notice": "이 PC의 설정과 맵은 그대로 유지됩니다.",
+  "notice":     "빨코 최적화, 설정 값 수정, 원격 명령기능 추가",
+  "keep_notice": "새폴더에서 설치하고 실행해주세요.(알람 설정 다시 해야함)",
   "stable": {
-    "version": "4.4.1",
-    "url": "https://github.com/rush9214/MS_update/releases/download/v441/m_secretary.exe"
+    "version": "4.9.1",
+    "url": "https://github.com/rush9214/MS_update/releases/download/v491/m_secretary.exe"
   }
 }
