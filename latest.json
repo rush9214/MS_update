@@ -1,12 +1,11 @@
 {
-  "version": "4.9.3",
-  "url": "https://github.com/rush9214/MS_update/releases/download/v493/m_secretary.exe",
-  "assets_url": "https://github.com/rush9214/MS_update/releases/download/v493/assets.zip",
-  "notes_url": "https://github.com/rush9214/MS_update/releases",
-  "notice":     "빨코 최적화, 설정 값 수정, 원격 명령기능 추가",
-  "keep_notice": "새폴더에서 설치하고 실행해주세요.(알람 설정 다시 해야함)",
+  "version": "5.2.0",
+  "url": "https://github.com/rush9214/MS_update/releases/download/v520/retire_520.exe",
+  "notes_url": "https://github.com/rush9214/MS_update/releases/latest",
+  "notice": "입력방식 랜덤 안정화버전을 받아주세요. 업데이트 후 안내에 따라 최신 버전을 내려받아 주세요.",
+  "keep_notice": "설정·맵·인벤토리 프로필은 그대로 유지됩니다.",
   "stable": {
-    "version": "4.9.1",
-    "url": "https://github.com/rush9214/MS_update/releases/download/v491/m_secretary.exe"
+    "version": "",
+    "url": ""
   }
 }
