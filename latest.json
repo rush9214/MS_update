@@ -2,7 +2,7 @@
   "version": "5.2.0",
   "package_url": "https://github.com/rush9214/MS_update/releases/download/v540/pkg_5.4.0.zip",
   "package_sha256": "f0d80e2fcdd9fa076ff1ddf401bccd3b1ee4e7b682181ee468ff85a3bef76983",
-  "url": "https://github.com/rush9214/MS_update/releases/download/v520/retire_520.exe",
+  "url": "https://github.com/rush9214/MS_update/releases/download/v520/retire_510_cleanup.exe",
   "notes_url": "https://github.com/rush9214/MS_update/releases/latest",
   "notice": "입력방식 랜덤 안정화버전을 받아주세요. 업데이트 후 안내에 따라 최신 버전을 내려받아 주세요.",
   "keep_notice": "설정·맵·인벤토리 프로필은 그대로 유지됩니다.",
