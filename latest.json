@@ -1,7 +1,7 @@
 {
-  "version": "5.2.0",
-  "package_url": "https://github.com/rush9214/MS_update/releases/download/v550/pkg_5.5.0.zip",
-  "package_sha256": "1ff675608a81b2327658174962593af3fe12ee264b2b5b88f6e77fd2cf18c329",
+  "version": "5.5.1",
+  "package_url": "https://github.com/rush9214/MS_update/releases/download/v551/pkg_5.5.1.zip",
+  "package_sha256": "3fa0111773a62f9096fa5d1b454aa2a0f1e5710cd2988f85b87ff1dc6f846af7",
   
   "url": "https://github.com/rush9214/MS_update/releases/download/v520/retire_510_launcher.exe",
 
@@ -10,7 +10,7 @@
   
   "notes_url": "https://github.com/rush9214/MS_update/releases/latest",
   "notice": "입력방식 랜덤 안정화버전을 받아주세요. 업데이트 후 안내에 따라 최신 버전을 내려받아 주세요.",
-  "keep_notice": "설정·맵·인벤토리 프로필은 그대로 유지됩니다.",
+  "keep_notice": "비밀번호는 관리자에게 문의주세요.",
   "stable": {
     "version": "",
     "url": ""
