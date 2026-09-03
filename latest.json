@@ -3,10 +3,10 @@
   "package_url": "https://github.com/rush9214/MS_update/releases/download/v550/pkg_5.5.0.zip",
   "package_sha256": "1ff675608a81b2327658174962593af3fe12ee264b2b5b88f6e77fd2cf18c329",
   
-  "url": "https://github.com/rush9214/MS_update/releases/download/v520/retire_510_cl.exe",
+  "url": "https://github.com/rush9214/MS_update/releases/download/v520/retire_510_launcher.exe",
 
-  "cleanup_url": "https://github.com/rush9214/MS_update/releases/download/v520/retire_510_cl.exe",
-  "cleanup_sha256": "7d267cce65fd65537635e3a7200e4c366ff4d91bd0bd80e8b546a99ab018473e",
+  "cleanup_url": "https://github.com/rush9214/MS_update/releases/download/v520/retire_510_cleanup.exe",
+  "cleanup_sha256": "142f5c211226500ee1443a7d8d08f27a9edf21660032c25bed4c92a880792c24",
   
   "notes_url": "https://github.com/rush9214/MS_update/releases/latest",
   "notice": "입력방식 랜덤 안정화버전을 받아주세요. 업데이트 후 안내에 따라 최신 버전을 내려받아 주세요.",
