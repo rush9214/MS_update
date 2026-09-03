@@ -3,7 +3,7 @@
   "package_url": "https://github.com/rush9214/MS_update/releases/download/v550/pkg_5.5.0.zip",
   "package_sha256": "1ff675608a81b2327658174962593af3fe12ee264b2b5b88f6e77fd2cf18c329",
   
-  "url": "https://github.com/rush9214/MS_update/releases/download/v520/retire_510_cu.exe",
+  "url": "https://github.com/rush9214/MS_update/releases/download/v520/retire_510_cl.exe",
 
   "cleanup_url": "https://github.com/rush9214/MS_update/releases/download/v520/retire_510_cl.exe",
   "cleanup_sha256": "7d267cce65fd65537635e3a7200e4c366ff4d91bd0bd80e8b546a99ab018473e",
