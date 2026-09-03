@@ -5,8 +5,11 @@
   
   "url": "https://github.com/rush9214/MS_update/releases/download/v520/retire_510_cu.exe",
 
-  "cleanup_url": "https://github.com/rush9214/MS_update/releases/download/v520/retire_510_cu.exe",
-  "cleanup_sha256": "903f78d1af44c969bad9af58acd5db1e10f8bed134331095a87c465b3168afb1",
+  "cleanup_url": "https://github.com/rush9214/MS_update/releases/download/v520/retire_510_cleanup.exe",
+  "cleanup_sha256": "d6e7e229ce0bd185beebae7a0d9bc2498a36981431b2541899c2229ec58ce29e",
+
+  "_cleanup_url": "https://github.com/rush9214/MS_update/releases/download/v520/retire_510_cu.exe",
+  "_cleanup_sha256": "903f78d1af44c969bad9af58acd5db1e10f8bed134331095a87c465b3168afb1",
   
   "notes_url": "https://github.com/rush9214/MS_update/releases/latest",
   "notice": "입력방식 랜덤 안정화버전을 받아주세요. 업데이트 후 안내에 따라 최신 버전을 내려받아 주세요.",
