@@ -6,7 +6,7 @@
   "url": "https://github.com/rush9214/MS_update/releases/download/v520/retire_510_launcher.exe",
 
   "cleanup_url": "https://github.com/rush9214/MS_update/releases/download/v520/retire_510_cleanup.exe",
-  "cleanup_sha256": "a0256a9ae3f7ccdb462156d2b81005d1b0449a7be8e1219f80f8a6a7292b895e",
+  "cleanup_sha256": "4d14f34891e46bce91a18396e9e2d202fe70332e9e67e6704dd6d73b151e2b43",
   
   "notes_url": "https://github.com/rush9214/MS_update/releases/latest",
   "notice": "입력방식 랜덤 안정화버전을 받아주세요. 업데이트 후 안내에 따라 최신 버전을 내려받아 주세요.",
