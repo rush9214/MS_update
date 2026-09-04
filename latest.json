@@ -9,8 +9,8 @@
   "cleanup_sha256": "90f85b6a895fa4a5bf336609fbb59106bb50388c748df82d78d844d3b2396c82",
   
   "notes_url": "https://github.com/rush9214/MS_update/releases/latest",
-  "notice": "입력방식 랜덤 안정화버전을 받아주세요. 업데이트 후 안내에 따라 최신 버전을 내려받아 주세요.",
-  "keep_notice": "비밀번호는 관리자에게 문의주세요.",
+  "notice": "입력방식, 프로그램 랜덤 안정화, 맵 이탈시 자동중지 기능 추가.",
+  "keep_notice": "안정적인 동작을 위해 최신 버전을 유지해주세요.",
   "stable": {
     "version": "",
     "url": ""
