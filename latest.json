@@ -15,7 +15,7 @@
   "update_policy": {
     "schema": 1,
     "default": "prompt",
-    "grace_hours": 12,
+    "grace_hours": 0,
     "max_fail": 3,
     "rules": [
       {
