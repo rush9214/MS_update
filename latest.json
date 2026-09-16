@@ -16,7 +16,7 @@
     "schema": 1,
     "default": "prompt",
     "grace_hours": 0,
-    "max_fail": 3,
+    "max_fail": 10,
     "rules": [
       {
         "when": "<=5.9.99",
