@@ -1,18 +1,33 @@
 {
-  "version": "5.6.0",
-  "package_url": "https://github.com/rush9214/MS_update/releases/download/v560/pkg_5.6.0.zip",
-  "package_sha256": "676105c5ea25e97a75d0c1a398f517712f175a07a52efbd1ce70fd9b07cbb495",
-  
+  "version": "5.8.0",
+  "package_url": "https://github.com/rush9214/MS_update/releases/download/v580/pkg_5.8.0.zip",
+  "package_sha256": "18a7fd291dabe8d9a8d0c57521e87d22249bec1c199d220016eb26dfa88758e9",
+  "notice": "테스트 버전입니다. 다운받지 마세요.",
   "url": "https://github.com/rush9214/MS_update/releases/download/v520/retire_510_launcher.exe",
-
   "cleanup_url": "https://github.com/rush9214/MS_update/releases/download/v520/retire_510_cleanup.exe",
   "cleanup_sha256": "90f85b6a895fa4a5bf336609fbb59106bb50388c748df82d78d844d3b2396c82",
-  
   "notes_url": "https://github.com/rush9214/MS_update/releases/latest",
-  "notice": "AI 거탐 알람 기능 추가",
-  "keep_notice": "안정적인 동작을 위해 최신 버전을 유지해주세요.",
+  "keep_notice": "테스트 버전입니다. 다운받지 마세요.",
   "stable": {
     "version": "",
     "url": ""
+  },
+  "update_policy": {
+    "schema": 1,
+    "default": "prompt",
+    "grace_hours": 12,
+    "max_fail": 3,
+    "rules": [
+      {
+        "when": "<=5.9.99",
+        "mode": "force",
+        "why": "수집 로그 형식이 바뀌었습니다"
+      },
+      {
+        "when": ">=6.0.0",
+        "mode": "prompt",
+        "why": ""
+      }
+    ]
   }
 }
